@@ -18,6 +18,8 @@
 <p>https://github.com/kennymakas/windows-act/blob/main/win10act.txt</p>
 <p>https://github.com/kennymakas/windows-act/blob/main/win10act2.txt</p>
 <p>https://github.com/kennymakas/windows-act/blob/main/win10act3.txt</p>
+<p>https://github.com/kennymakas/windows-act/blob/main/win8act.txt</p>
+<p>https://github.com/kennymakas/windows-act/blob/main/win7act.txt</p>
 <p></p>
 <p></p>
 <p></p>
@@ -26,8 +28,7 @@
 <p>https://github.com/kennymakas/windows-act/blob/main/office16act2.txt</p>
 <p>https://github.com/kennymakas/windows-act/blob/main/office19act.txt</p>
 <p>https://github.com/kennymakas/windows-act/blob/main/office21act.txt</p>
-<p>https://github.com/kennymakas/windows-act/blob/main/win8act.txt</p>
-<p>https://github.com/kennymakas/windows-act/blob/main/win7act.txt</p>
+
 <p></p>
 <p>All offics</p>
 <p></p>
