@@ -12,3 +12,6 @@ body{
 .windows image{
     width: 100%;
 }
+.windows h1{
+    text-align: center;
+}
