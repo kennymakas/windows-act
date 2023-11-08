@@ -12,11 +12,26 @@
 <h2>🛠️ Activation Steps:</h2>
 
 <p>1. 1: Copy the code from the above or linked below as .txt files into a new text document Create a new text document.Create a new text document.</p>
+<p>For all windows</p>
+<p>https://github.com/kennymakas/windows-act/blob/main/win7%2C8%2C10%2611act.txt</p>
+<p>individual windows</p>
 <p>https://github.com/kennymakas/windows-act/blob/main/win10act.txt</p>
 <p>https://github.com/kennymakas/windows-act/blob/main/win10act2.txt</p>
 <p>https://github.com/kennymakas/windows-act/blob/main/win10act3.txt</p>
 <p></p>
-
+<p></p>
+<p></p>
+<p> individual office</p>
+<p>https://github.com/kennymakas/windows-act/blob/main/office16act.txt</p>
+<p>https://github.com/kennymakas/windows-act/blob/main/office16act2.txt</p>
+<p>https://github.com/kennymakas/windows-act/blob/main/office19act.txt</p>
+<p>https://github.com/kennymakas/windows-act/blob/main/office21act.txt</p>
+<p>https://github.com/kennymakas/windows-act/blob/main/win8act.txt</p>
+<p>https://github.com/kennymakas/windows-act/blob/main/win7act.txt</p>
+<p></p>
+<p>All offics</p>
+<p></p>
+<p></p>
 
 <p>2. Create a new text document.</p>
 
