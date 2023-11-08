@@ -1,7 +1,7 @@
 
 <h1 align="center" id="title">Windows and office activator batch files</h1>
 
-<p align="center"><img src="https://thesharebear.in/wp-content/uploads/2022/07/utiliser-kmspico.jpg" alt="project-image"></p>
+<p align="center"><img src="https://windows-activator.netlify.app/images/win%20act.png" alt="project-image"></p>
 
 <p id="description">NOTE: Turn off any antivirus or windows Defender/security BECAUSE Activation of Windows requires legitimate software. There are many websites on the internet that provide the batch files at a cost. The batch files from an authorized dealer are the most appropriate. The files or sites that are not approved are a threat to the Windows OS and the overall computer.</p>
 
