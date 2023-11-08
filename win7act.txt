@@ -1,0 +1,8 @@
+@Echo Off
+Set "XSL=csv"
+For /F "EOL=MDelims=" %%A In ('"WMIc OS Get MUILanguages,Version"'
+) Do For /F Tokens^=2^,4-5Delims^=.^"^  %%B In ("%%A"
+) Do If %%C Equ 6 If %%D Equ 1 Set "XSL=%__APPDIR__%WBEM\%%B\%XSL%
+WMIC /Output:Results.log /Node:@Computers.txt Path SoftwareLicensingProduct^
+ Where "PartialProductKey Is Not Null And Name Like 'Windows(R)%%' And Not LicenseStatus='1'"^
+ Get LicenseStatus,Name,ProductKeyID /Format:"%XSL%"
