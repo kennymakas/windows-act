@@ -1,0 +1,42 @@
+@echo off
+
+REM Windows Activation
+
+Echo Activate Windows
+set /p key="Input Windows Key : "
+
+slmgr /ipk %key% /ato  && ^ 
+wmic csproduct && ^
+gpupdate /force
+
+Modified
+
+@echo off
+REM Windows Activation
+Echo Activate Windows
+echo. =================================
+set /p key="Input Windows KEY : "
+echo. =================================
+
+
+cscript %windir%\system32\slmgr.vbs /ato | find /i "successfully" &&  (goto status)
+
+:status
+Echo Check Windows Status
+SetLocal EnableExtensions EnableDelayedExpansion
+Set "WinVerAct="
+
+For /f "tokens=*" %%W in ('
+cscript /Nologo "C:\Windows\System32\slmgr.vbs" /xpr
+') Do Set "WinVerAct=!WinVerAct! %%W"
+if Not defined WinVerAct ( 
+Echo:No response from slmgr.vbs
+Exit /B 1
+ 
+Echo Windows Version Activation Status:
+Echo:"%WinVerAct:~1%"
+
+wmic csproduct && ^
+gpupdate /force
+
+@exit /b
