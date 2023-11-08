@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(187, 208, 231);
+
+}
+.windows{
+    display: flex;
+    align-items: center;
+    margin: 20px;
+    align-content: center;
+    flex-direction: column;
+}
+.windows image{
+    width: 100%;
+}
